@@ -12,6 +12,6 @@ While many uncopylocked templates are still available on Roblox, earlier version
 
 
 # Disclaimer
-All templates in this repository are provided as-is and are intended for educational and archival purposes. We do not claim ownership of any of the templates and respect the rights of the original creators. If you believe a template has been uploaded in error or wish for it to be removed, please contact us.
+All templates in this repository are provided as-is and are intended for educational and archival purposes. We do not claim ownership of any of the templates and respect the rights of the original creators. If you believe a template has been uploaded in error or wish for it to be removed, please contact me.
 -
 ***Written and Edited by Kaylo, 2024.***
